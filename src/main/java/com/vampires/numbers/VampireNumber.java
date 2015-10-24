@@ -1,3 +1,8 @@
+package com.vampires.numbers;
+
+import com.vampires.VampireNumberException;
+import com.vampires.fangs.SetOfFangs;
+
 /**
  * Created by tenpines on 23/10/15.
  */

@@ -1,6 +1,10 @@
+package com.vampires.numbers;
+
 import ar.com.dgarcia.javaspec.api.JavaSpec;
 import ar.com.dgarcia.javaspec.api.JavaSpecRunner;
 import com.google.common.collect.Lists;
+import com.vampires.VampireTestContext;
+import com.vampires.numbers.IntegerNumber;
 import org.junit.runner.RunWith;
 
 import static org.assertj.core.api.Assertions.assertThat;

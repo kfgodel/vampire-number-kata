@@ -1,5 +1,13 @@
+package com.vampires.numbers;
+
 import ar.com.dgarcia.javaspec.api.JavaSpec;
 import ar.com.dgarcia.javaspec.api.JavaSpecRunner;
+import com.vampires.VampireNumberException;
+import com.vampires.VampireTestContext;
+import com.vampires.numbers.FangableNumber;
+import com.vampires.fangs.SetOfFangs;
+import com.vampires.numbers.IntegerNumber;
+import com.vampires.numbers.VampireNumber;
 import org.junit.runner.RunWith;
 
 import static org.assertj.core.api.Assertions.assertThat;

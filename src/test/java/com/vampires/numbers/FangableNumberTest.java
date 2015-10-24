@@ -1,10 +1,16 @@
+package com.vampires.numbers;
+
 import ar.com.dgarcia.javaspec.api.JavaSpec;
 import ar.com.dgarcia.javaspec.api.JavaSpecRunner;
+import com.vampires.VampireNumberException;
+import com.vampires.VampireTestContext;
+import com.vampires.numbers.FangableNumber;
+import com.vampires.fangs.SetOfFangs;
+import com.vampires.numbers.IntegerNumber;
 import org.junit.runner.RunWith;
 
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.failBecauseExceptionWasNotThrown;

@@ -1,5 +1,9 @@
+package com.vampires.fangs;
+
 import ar.com.dgarcia.javaspec.api.JavaSpec;
 import ar.com.dgarcia.javaspec.api.JavaSpecRunner;
+import com.vampires.VampireTestContext;
+import com.vampires.fangs.SetOfFangs;
 import org.junit.runner.RunWith;
 
 import static org.assertj.core.api.Assertions.assertThat;

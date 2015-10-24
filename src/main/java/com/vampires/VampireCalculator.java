@@ -1,5 +1,10 @@
-import java.util.List;
-import java.util.stream.Collectors;
+package com.vampires;
+
+import com.vampires.numbers.FangableNumber;
+import com.vampires.fangs.SetOfFangs;
+import com.vampires.numbers.IntegerNumber;
+import com.vampires.numbers.VampireNumber;
+
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 

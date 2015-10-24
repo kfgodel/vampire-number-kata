@@ -1,3 +1,5 @@
+package com.vampires.fangs;
+
 /**
  * Created by tenpines on 23/10/15.
  */

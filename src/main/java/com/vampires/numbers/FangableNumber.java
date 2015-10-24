@@ -1,8 +1,11 @@
+package com.vampires.numbers;
+
 import com.google.common.collect.Collections2;
+import com.vampires.VampireNumberException;
+import com.vampires.fangs.SetOfFangs;
 
 import java.util.Collection;
 import java.util.List;
-import java.util.ListIterator;
 import java.util.stream.Stream;
 
 /**
