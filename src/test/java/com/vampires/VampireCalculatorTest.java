@@ -35,7 +35,7 @@ public class VampireCalculatorTest  extends JavaSpec<VampireTestContext> {
           );
       });
 
-      it("finds the first numbers under 130k in less 30s", ()->{
+      it("finds the first numbers under 130k in less than 30s", ()->{
         long start = System.currentTimeMillis();
         Iterator<VampireNumber> calculatedNumbers = VampireCalculator.create().calculate(130_000).iterator();
         while(calculatedNumbers.hasNext()){
