@@ -17,11 +17,11 @@
     <name>VampireNumbres</name>
     <description>Kata to test vampire numbres detection</description>
 
-    <!--<scm>-->
-        <!--<connection>scm:git:ssh://github.com/kfgodel/eq-token.git</connection>-->
-        <!--<developerConnection>scm:git:ssh://github.com/kfgodel/eq-token.git</developerConnection>-->
-        <!--<url>https://github.com/kfgodel/eq-token</url>-->
-    <!--</scm>-->
+    <scm>
+        <connection>scm:git:ssh://github.com/kfgodel/vampire-number-kata.git</connection>
+        <developerConnection>scm:git:ssh://github.com/kfgodel/vampire-number-kata.git</developerConnection>
+        <url>https://github.com/kfgodel/vampire-number-kata</url>
+    </scm>
 
     <repositories>
         <repository>
